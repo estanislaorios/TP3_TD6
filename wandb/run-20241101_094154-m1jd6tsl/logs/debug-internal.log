@@ -1,0 +1,7 @@
+{"time":"2024-11-01T09:41:54.862576-03:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-01T09:41:54.862633-03:00","level":"INFO","msg":"created symlink","path":"/Users/estanislaorioszgaib/Desktop/TP3-TD6/TP3_TD6_repo/wandb/run-20241101_094154-m1jd6tsl/logs/debug-core.log"}
+{"time":"2024-11-01T09:41:54.971327-03:00","level":"INFO","msg":"created new stream","id":"m1jd6tsl"}
+{"time":"2024-11-01T09:41:54.97136-03:00","level":"INFO","msg":"stream: started","id":"m1jd6tsl"}
+{"time":"2024-11-01T09:41:54.971378-03:00","level":"INFO","msg":"sender: started","stream_id":"m1jd6tsl"}
+{"time":"2024-11-01T09:41:54.971403-03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"m1jd6tsl"}}
+{"time":"2024-11-01T09:41:54.971371-03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"m1jd6tsl"}}
