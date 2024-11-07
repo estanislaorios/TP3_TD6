@@ -1,0 +1,38 @@
+{
+  "os": "macOS-13.4-arm64-arm-64bit",
+  "python": "3.12.4",
+  "startedAt": "2024-11-06T13:54:56.742849Z",
+  "program": "/Users/estanislaorioszgaib/Desktop/TP3-TD6/TP3_TD6_repo/TP3_clasificador_musica_2024.ipynb",
+  "git": {
+    "remote": "https://github.com/estanislaorios/TP3_TD6.git",
+    "commit": "1abae7663f2b07f7163ec6e6abdbece29bb94387"
+  },
+  "email": "estanislao.rios2@gmail.com",
+  "root": "/Users/estanislaorioszgaib/Desktop/TP3-TD6/TP3_TD6_repo",
+  "host": "MacBook-Pro-de-Estanislao.local",
+  "username": "estanislaorioszgaib",
+  "executable": "/opt/anaconda3/envs/TD6/bin/python",
+  "codePathLocal": "TP3_clasificador_musica_2024.ipynb",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "224924975104"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 8
+  },
+  "apple": {
+    "name": "Apple M2",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 10,
+    "memoryGb": 8
+  }
+}

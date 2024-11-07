@@ -1,0 +1,19 @@
+{"time":"2024-11-06T15:08:42.411889-03:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T15:08:42.411959-03:00","level":"INFO","msg":"created symlink","path":"/Users/estanislaorioszgaib/Desktop/TP3-TD6/TP3_TD6_repo/wandb/run-20241106_150838-5zcwtiu5/logs/debug-core.log"}
+{"time":"2024-11-06T15:08:42.528721-03:00","level":"INFO","msg":"created new stream","id":"5zcwtiu5"}
+{"time":"2024-11-06T15:08:42.528763-03:00","level":"INFO","msg":"stream: started","id":"5zcwtiu5"}
+{"time":"2024-11-06T15:08:42.528767-03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"5zcwtiu5"}}
+{"time":"2024-11-06T15:08:42.528812-03:00","level":"INFO","msg":"sender: started","stream_id":"5zcwtiu5"}
+{"time":"2024-11-06T15:08:42.528838-03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"5zcwtiu5"}}
+{"time":"2024-11-06T15:08:42.891856-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T15:11:17.091968-03:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/estanislao-rios-/Music_genre_classification/5zcwtiu5/file_stream"}
+{"time":"2024-11-06T15:13:13.570811-03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2024-11-06T15:14:07.010663-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T15:14:07.012704-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T15:14:08.016538-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.557666958},{"desc":"uploading config.yaml","runtime_seconds":0.285048458,"progress":"719B/719B"},{"desc":"uploading output.log","runtime_seconds":0.2850035,"progress":"10.8KB/10.8KB"}],"total_operations":3}}
+{"time":"2024-11-06T15:14:08.307304-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-06T15:14:09.58877-03:00","level":"INFO","msg":"stream: closing","id":"5zcwtiu5"}
+{"time":"2024-11-06T15:14:09.588807-03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"5zcwtiu5"}}
+{"time":"2024-11-06T15:14:09.588837-03:00","level":"INFO","msg":"sender: closed","stream_id":"5zcwtiu5"}
+{"time":"2024-11-06T15:14:09.588831-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"5zcwtiu5"}}
+{"time":"2024-11-06T15:14:09.588922-03:00","level":"INFO","msg":"stream: closed","id":"5zcwtiu5"}

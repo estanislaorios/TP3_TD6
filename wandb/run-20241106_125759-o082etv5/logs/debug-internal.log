@@ -1,0 +1,8 @@
+{"time":"2024-11-06T12:58:01.966176-03:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T12:58:01.966203-03:00","level":"INFO","msg":"created symlink","path":"/Users/estanislaorioszgaib/Desktop/TP3-TD6/TP3_TD6_repo/wandb/run-20241106_125759-o082etv5/logs/debug-core.log"}
+{"time":"2024-11-06T12:58:02.078902-03:00","level":"INFO","msg":"created new stream","id":"o082etv5"}
+{"time":"2024-11-06T12:58:02.07894-03:00","level":"INFO","msg":"stream: started","id":"o082etv5"}
+{"time":"2024-11-06T12:58:02.078947-03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"o082etv5"}}
+{"time":"2024-11-06T12:58:02.078987-03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"o082etv5"}}
+{"time":"2024-11-06T12:58:02.078979-03:00","level":"INFO","msg":"sender: started","stream_id":"o082etv5"}
+{"time":"2024-11-06T12:58:02.633217-03:00","level":"INFO","msg":"Starting system monitor"}

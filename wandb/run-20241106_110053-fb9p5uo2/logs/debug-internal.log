@@ -1,0 +1,21 @@
+{"time":"2024-11-06T11:00:53.059992-03:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T11:00:53.060013-03:00","level":"INFO","msg":"created symlink","path":"/Users/estanislaorioszgaib/Desktop/TP3-TD6/TP3_TD6_repo/wandb/run-20241106_110053-fb9p5uo2/logs/debug-core.log"}
+{"time":"2024-11-06T11:00:53.167528-03:00","level":"INFO","msg":"created new stream","id":"fb9p5uo2"}
+{"time":"2024-11-06T11:00:53.167565-03:00","level":"INFO","msg":"stream: started","id":"fb9p5uo2"}
+{"time":"2024-11-06T11:00:53.167598-03:00","level":"INFO","msg":"sender: started","stream_id":"fb9p5uo2"}
+{"time":"2024-11-06T11:00:53.167636-03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"fb9p5uo2"}}
+{"time":"2024-11-06T11:00:53.167581-03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"fb9p5uo2"}}
+{"time":"2024-11-06T11:00:53.454131-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T11:00:53.49398-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-06T11:00:53.500198-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-06T11:05:10.192208-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-06T11:05:10.202756-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-06T11:05:10.206383-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T11:05:10.208167-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T11:05:11.210951-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.400515083,"progress":"678B/678B"}],"total_operations":1}}
+{"time":"2024-11-06T11:05:11.784479-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-06T11:05:13.04787-03:00","level":"INFO","msg":"stream: closing","id":"fb9p5uo2"}
+{"time":"2024-11-06T11:05:13.047895-03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"fb9p5uo2"}}
+{"time":"2024-11-06T11:05:13.047929-03:00","level":"INFO","msg":"sender: closed","stream_id":"fb9p5uo2"}
+{"time":"2024-11-06T11:05:13.047919-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"fb9p5uo2"}}
+{"time":"2024-11-06T11:05:13.048008-03:00","level":"INFO","msg":"stream: closed","id":"fb9p5uo2"}

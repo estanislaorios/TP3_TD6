@@ -1,0 +1,29 @@
+{"time":"2024-11-06T11:12:49.680733-03:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T11:12:49.680753-03:00","level":"INFO","msg":"created symlink","path":"/Users/estanislaorioszgaib/Desktop/TP3-TD6/TP3_TD6_repo/wandb/run-20241106_111249-djh6bqx2/logs/debug-core.log"}
+{"time":"2024-11-06T11:12:49.790671-03:00","level":"INFO","msg":"created new stream","id":"djh6bqx2"}
+{"time":"2024-11-06T11:12:49.790709-03:00","level":"INFO","msg":"stream: started","id":"djh6bqx2"}
+{"time":"2024-11-06T11:12:49.790725-03:00","level":"INFO","msg":"sender: started","stream_id":"djh6bqx2"}
+{"time":"2024-11-06T11:12:49.790711-03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"djh6bqx2"}}
+{"time":"2024-11-06T11:12:49.790745-03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"djh6bqx2"}}
+{"time":"2024-11-06T11:12:50.104342-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T11:12:50.139526-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-06T11:12:50.144801-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-06T11:23:51.135718-03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/estanislao-rios-/Music_genre_classification/djh6bqx2/file_stream\": EOF"}
+{"time":"2024-11-06T11:29:39.326347-03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/estanislao-rios-/Music_genre_classification/djh6bqx2/file_stream\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2024-11-06T11:33:20.398719-03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/estanislao-rios-/Music_genre_classification/djh6bqx2/file_stream\": dial tcp 35.186.228.49:443: connect: operation timed out"}
+{"time":"2024-11-06T11:33:22.690537-03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/estanislao-rios-/Music_genre_classification/djh6bqx2/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-11-06T11:33:42.614682-03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/estanislao-rios-/Music_genre_classification/djh6bqx2/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-11-06T11:33:45.022464-03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/estanislao-rios-/Music_genre_classification/djh6bqx2/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-11-06T11:33:49.664972-03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/estanislao-rios-/Music_genre_classification/djh6bqx2/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2024-11-06T11:33:56.283221-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-06T11:33:56.29699-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-06T11:33:56.300615-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T11:33:56.302978-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T11:33:57.304493-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history, console logs","runtime_seconds":14.691174041}],"total_operations":1}}
+{"time":"2024-11-06T11:34:01.144711-03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.9.7.221:50809->35.186.228.49:443: read: can't assign requested address"}
+{"time":"2024-11-06T11:34:05.497014-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-06T11:34:06.786521-03:00","level":"INFO","msg":"stream: closing","id":"djh6bqx2"}
+{"time":"2024-11-06T11:34:06.786562-03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"djh6bqx2"}}
+{"time":"2024-11-06T11:34:06.786596-03:00","level":"INFO","msg":"sender: closed","stream_id":"djh6bqx2"}
+{"time":"2024-11-06T11:34:06.786592-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"djh6bqx2"}}
+{"time":"2024-11-06T11:34:06.786692-03:00","level":"INFO","msg":"stream: closed","id":"djh6bqx2"}

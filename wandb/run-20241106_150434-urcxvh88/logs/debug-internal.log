@@ -1,0 +1,27 @@
+{"time":"2024-11-06T15:04:34.561779-03:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T15:04:34.561797-03:00","level":"INFO","msg":"created symlink","path":"/Users/estanislaorioszgaib/Desktop/TP3-TD6/TP3_TD6_repo/wandb/run-20241106_150434-urcxvh88/logs/debug-core.log"}
+{"time":"2024-11-06T15:04:34.667928-03:00","level":"INFO","msg":"created new stream","id":"urcxvh88"}
+{"time":"2024-11-06T15:04:34.667963-03:00","level":"INFO","msg":"stream: started","id":"urcxvh88"}
+{"time":"2024-11-06T15:04:34.668014-03:00","level":"INFO","msg":"sender: started","stream_id":"urcxvh88"}
+{"time":"2024-11-06T15:04:34.667973-03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"urcxvh88"}}
+{"time":"2024-11-06T15:04:34.668039-03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"urcxvh88"}}
+{"time":"2024-11-06T15:04:35.138266-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T15:04:35.174899-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-06T15:04:35.179843-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-06T15:04:38.337187-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-06T15:06:20.880706-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-06T15:06:21.280473-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-06T15:08:34.119207-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-06T15:08:34.387447-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-06T15:08:37.142463-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-06T15:08:37.145985-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-06T15:08:38.3243-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-06T15:08:38.380337-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T15:08:38.394016-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T15:08:39.385266-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":0.40304425},{"desc":"uploading wandb-summary.json","runtime_seconds":0.175646291,"progress":"24B/24B"}],"total_operations":2}}
+{"time":"2024-11-06T15:08:41.044545-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-06T15:08:42.406516-03:00","level":"INFO","msg":"stream: closing","id":"urcxvh88"}
+{"time":"2024-11-06T15:08:42.406553-03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"urcxvh88"}}
+{"time":"2024-11-06T15:08:42.406579-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"urcxvh88"}}
+{"time":"2024-11-06T15:08:42.406594-03:00","level":"INFO","msg":"sender: closed","stream_id":"urcxvh88"}
+{"time":"2024-11-06T15:08:42.406726-03:00","level":"INFO","msg":"stream: closed","id":"urcxvh88"}

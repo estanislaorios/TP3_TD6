@@ -1,0 +1,71 @@
+Epoch: [1/5], Train loss: 4.1589
+Epoch: [1/5], Valid loss: 4.1589, Valid accuracy: 0.1111
+Saving the best model at 0 epochs!
+Epoch: [2/5], Train loss: 4.1589
+Epoch: [2/5], Valid loss: 4.1589, Valid accuracy: 0.1111
+Epoch: [3/5], Train loss: 4.1589
+Epoch: [3/5], Valid loss: 4.1589, Valid accuracy: 0.1111
+Epoch: [4/5], Train loss: 4.1589
+Epoch: [4/5], Valid loss: 4.1589, Valid accuracy: 0.1111
+Epoch: [5/5], Train loss: 4.1589
+Epoch: [5/5], Valid loss: 4.1589, Valid accuracy: 0.1111
+/var/folders/vr/m1trbm1d41l3lhm_cxvqfg400000gn/T/ipykernel_86313/3571020372.py:2: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  S = torch.load('best_model.ckpt')
+loaded!
+Epoch: [5/5], Valid loss: 4.1589, Valid accuracy: 0.0909
+shape of waveform torch.Size([1, 110250]), sample rate with 22050, label is 4
+Requirement already satisfied: torchaudio in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (2.5.0)
+Requirement already satisfied: torch==2.5.0 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from torchaudio) (2.5.0)
+Requirement already satisfied: filelock in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from torch==2.5.0->torchaudio) (3.16.1)
+Requirement already satisfied: typing-extensions>=4.8.0 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from torch==2.5.0->torchaudio) (4.12.2)
+Requirement already satisfied: networkx in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from torch==2.5.0->torchaudio) (3.4.1)
+Requirement already satisfied: jinja2 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from torch==2.5.0->torchaudio) (3.1.4)
+Requirement already satisfied: fsspec in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from torch==2.5.0->torchaudio) (2024.9.0)
+Requirement already satisfied: setuptools in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from torch==2.5.0->torchaudio) (69.5.1)
+Requirement already satisfied: sympy==1.13.1 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from torch==2.5.0->torchaudio) (1.13.1)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from sympy==1.13.1->torch==2.5.0->torchaudio) (1.3.0)
+Requirement already satisfied: MarkupSafe>=2.0 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from jinja2->torch==2.5.0->torchaudio) (3.0.1)
+Note: you may need to restart the kernel to use updated packages.
+Requirement already satisfied: pydub in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (0.25.1)
+Note: you may need to restart the kernel to use updated packages.
+Requirement already satisfied: soundfile in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (0.12.1)
+Requirement already satisfied: cffi>=1.0 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from soundfile) (1.17.1)
+Requirement already satisfied: pycparser in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from cffi>=1.0->soundfile) (2.22)
+Note: you may need to restart the kernel to use updated packages.
+Requirement already satisfied: wandb in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (0.18.5)
+Requirement already satisfied: click!=8.0.0,>=7.1 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from wandb) (8.1.7)
+Requirement already satisfied: docker-pycreds>=0.4.0 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from wandb) (0.4.0)
+Requirement already satisfied: gitpython!=3.1.29,>=1.0.0 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from wandb) (3.1.43)
+Requirement already satisfied: platformdirs in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from wandb) (4.2.2)
+Requirement already satisfied: protobuf!=4.21.0,!=5.28.0,<6,>=3.19.0 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from wandb) (5.28.3)
+Requirement already satisfied: psutil>=5.0.0 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from wandb) (5.9.0)
+Requirement already satisfied: pyyaml in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from wandb) (6.0.2)
+Requirement already satisfied: requests<3,>=2.0.0 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from wandb) (2.32.3)
+Requirement already satisfied: sentry-sdk>=2.0.0 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from wandb) (2.17.0)
+Requirement already satisfied: setproctitle in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from wandb) (1.3.3)
+Requirement already satisfied: setuptools in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from wandb) (69.5.1)
+Requirement already satisfied: six>=1.4.0 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from docker-pycreds>=0.4.0->wandb) (1.16.0)
+Requirement already satisfied: gitdb<5,>=4.0.1 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from gitpython!=3.1.29,>=1.0.0->wandb) (4.0.11)
+Requirement already satisfied: charset-normalizer<4,>=2 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from requests<3,>=2.0.0->wandb) (3.4.0)
+Requirement already satisfied: idna<4,>=2.5 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from requests<3,>=2.0.0->wandb) (3.10)
+Requirement already satisfied: urllib3<3,>=1.21.1 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from requests<3,>=2.0.0->wandb) (2.2.3)
+Requirement already satisfied: certifi>=2017.4.17 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from requests<3,>=2.0.0->wandb) (2024.8.30)
+Requirement already satisfied: smmap<6,>=3.0.1 in /opt/anaconda3/envs/TD6/lib/python3.12/site-packages (from gitdb<5,>=4.0.1->gitpython!=3.1.29,>=1.0.0->wandb) (5.0.1)
+Note: you may need to restart the kernel to use updated packages.
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+/opt/anaconda3/envs/TD6/lib/python3.12/site-packages/torch/nn/init.py:511: UserWarning: Initializing zero-element tensors is a no-op
+  warnings.warn("Initializing zero-element tensors is a no-op")
+shape of waveform torch.Size([1, 110250]), sample rate with 22050, label is 2
+shape of spectogram torch.Size([1, 201, 552])
+Waveform: tensor([[ 0.0345,  0.0482,  0.0643,  ..., -0.1070, -0.0598, -0.0341]])
+
+Forma de los datos: torch.Size([64, 1, 110250])
+Etiquetas: tensor([7, 9, 6, 2, 1, 7, 2, 9, 4, 4, 1, 4, 3, 2, 2, 6, 3, 1, 1, 7, 8, 3, 6, 3,
+        2, 1, 4, 7, 9, 3, 4, 3, 1, 5, 5, 5, 6, 9, 4, 6, 5, 1, 4, 3, 0, 5, 8, 1,
+        9, 3, 7, 0, 6, 6, 3, 7, 2, 6, 4, 5, 9, 0, 2, 3])
+MLP(
+  (fc1): Linear(in_features=110250, out_features=64, bias=True)
+  (fc2): Linear(in_features=64, out_features=64, bias=True)
+  (fc3): Linear(in_features=64, out_features=10, bias=True)
+)
+Number of parameters: 7060874

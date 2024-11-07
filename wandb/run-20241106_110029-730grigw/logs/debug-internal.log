@@ -1,0 +1,7 @@
+{"time":"2024-11-06T11:00:29.443762-03:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T11:00:29.443794-03:00","level":"INFO","msg":"created symlink","path":"/Users/estanislaorioszgaib/Desktop/TP3-TD6/TP3_TD6_repo/wandb/run-20241106_110029-730grigw/logs/debug-core.log"}
+{"time":"2024-11-06T11:00:29.558607-03:00","level":"INFO","msg":"created new stream","id":"730grigw"}
+{"time":"2024-11-06T11:00:29.55866-03:00","level":"INFO","msg":"stream: started","id":"730grigw"}
+{"time":"2024-11-06T11:00:29.558689-03:00","level":"INFO","msg":"sender: started","stream_id":"730grigw"}
+{"time":"2024-11-06T11:00:29.558704-03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"730grigw"}}
+{"time":"2024-11-06T11:00:29.558689-03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"730grigw"}}

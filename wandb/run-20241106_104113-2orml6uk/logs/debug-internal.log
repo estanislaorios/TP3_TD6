@@ -1,0 +1,18 @@
+{"time":"2024-11-06T10:41:16.302002-03:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T10:41:16.302051-03:00","level":"INFO","msg":"created symlink","path":"/Users/estanislaorioszgaib/Desktop/TP3-TD6/TP3_TD6_repo/wandb/run-20241106_104113-2orml6uk/logs/debug-core.log"}
+{"time":"2024-11-06T10:41:16.41492-03:00","level":"INFO","msg":"created new stream","id":"2orml6uk"}
+{"time":"2024-11-06T10:41:16.414966-03:00","level":"INFO","msg":"stream: started","id":"2orml6uk"}
+{"time":"2024-11-06T10:41:16.414964-03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"2orml6uk"}}
+{"time":"2024-11-06T10:41:16.415-03:00","level":"INFO","msg":"sender: started","stream_id":"2orml6uk"}
+{"time":"2024-11-06T10:41:16.415019-03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"2orml6uk"}}
+{"time":"2024-11-06T10:41:16.691303-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T10:45:32.620959-03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/estanislao-rios-/Music_genre_classification/2orml6uk/file_stream\": EOF"}
+{"time":"2024-11-06T10:45:44.483156-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T10:45:44.485085-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T10:45:45.488638-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.436400917,"progress":"187B/187B"},{"desc":"saving job artifact","runtime_seconds":0.4355445},{"desc":"uploading config.yaml","runtime_seconds":0.201894042,"progress":"719B/719B"},{"desc":"uploading output.log","runtime_seconds":0.201884833,"progress":"9.5KB/9.5KB"}],"total_operations":4}}
+{"time":"2024-11-06T10:45:46.238307-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-06T10:45:47.64563-03:00","level":"INFO","msg":"stream: closing","id":"2orml6uk"}
+{"time":"2024-11-06T10:45:47.645675-03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"2orml6uk"}}
+{"time":"2024-11-06T10:45:47.645717-03:00","level":"INFO","msg":"sender: closed","stream_id":"2orml6uk"}
+{"time":"2024-11-06T10:45:47.6457-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"2orml6uk"}}
+{"time":"2024-11-06T10:45:47.645863-03:00","level":"INFO","msg":"stream: closed","id":"2orml6uk"}

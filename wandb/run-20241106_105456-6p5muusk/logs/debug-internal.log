@@ -1,0 +1,21 @@
+{"time":"2024-11-06T10:54:56.746824-03:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T10:54:56.74695-03:00","level":"INFO","msg":"created symlink","path":"/Users/estanislaorioszgaib/Desktop/TP3-TD6/TP3_TD6_repo/wandb/run-20241106_105456-6p5muusk/logs/debug-core.log"}
+{"time":"2024-11-06T10:54:56.864277-03:00","level":"INFO","msg":"created new stream","id":"6p5muusk"}
+{"time":"2024-11-06T10:54:56.864317-03:00","level":"INFO","msg":"stream: started","id":"6p5muusk"}
+{"time":"2024-11-06T10:54:56.864451-03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"6p5muusk"}}
+{"time":"2024-11-06T10:54:56.864745-03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"6p5muusk"}}
+{"time":"2024-11-06T10:54:56.864747-03:00","level":"INFO","msg":"sender: started","stream_id":"6p5muusk"}
+{"time":"2024-11-06T10:54:57.261192-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T10:54:57.297634-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-06T10:54:57.303241-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-06T10:59:19.302018-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-06T10:59:19.31243-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-06T10:59:19.315406-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T10:59:19.316834-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T10:59:20.32091-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.333612167,"progress":"678B/678B"},{"desc":"uploading output.log","runtime_seconds":0.333573541,"progress":"9.4KB/9.4KB"}],"total_operations":2}}
+{"time":"2024-11-06T10:59:20.451051-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-06T10:59:21.712591-03:00","level":"INFO","msg":"stream: closing","id":"6p5muusk"}
+{"time":"2024-11-06T10:59:21.712634-03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"6p5muusk"}}
+{"time":"2024-11-06T10:59:21.712698-03:00","level":"INFO","msg":"sender: closed","stream_id":"6p5muusk"}
+{"time":"2024-11-06T10:59:21.712688-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"6p5muusk"}}
+{"time":"2024-11-06T10:59:21.712819-03:00","level":"INFO","msg":"stream: closed","id":"6p5muusk"}

@@ -1,0 +1,21 @@
+{"time":"2024-11-06T09:53:20.758714-03:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T09:53:20.758759-03:00","level":"INFO","msg":"created symlink","path":"/Users/estanislaorioszgaib/Desktop/TP3-TD6/TP3_TD6_repo/wandb/run-20241106_095320-rj863otu/logs/debug-core.log"}
+{"time":"2024-11-06T09:53:20.997392-03:00","level":"INFO","msg":"created new stream","id":"rj863otu"}
+{"time":"2024-11-06T09:53:20.997479-03:00","level":"INFO","msg":"stream: started","id":"rj863otu"}
+{"time":"2024-11-06T09:53:20.997528-03:00","level":"INFO","msg":"sender: started","stream_id":"rj863otu"}
+{"time":"2024-11-06T09:53:20.997606-03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"rj863otu"}}
+{"time":"2024-11-06T09:53:20.997581-03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"rj863otu"}}
+{"time":"2024-11-06T09:53:21.50209-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T09:53:21.587143-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-06T09:53:21.593833-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-06T09:57:38.686773-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-06T09:57:38.698866-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-06T09:57:38.703313-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T09:57:38.705128-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T09:57:39.708014-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":1.005133667}],"total_operations":1}}
+{"time":"2024-11-06T09:57:43.576861-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-06T09:57:44.912468-03:00","level":"INFO","msg":"stream: closing","id":"rj863otu"}
+{"time":"2024-11-06T09:57:44.912493-03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"rj863otu"}}
+{"time":"2024-11-06T09:57:44.912525-03:00","level":"INFO","msg":"sender: closed","stream_id":"rj863otu"}
+{"time":"2024-11-06T09:57:44.91252-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"rj863otu"}}
+{"time":"2024-11-06T09:57:44.912594-03:00","level":"INFO","msg":"stream: closed","id":"rj863otu"}

@@ -1,0 +1,8 @@
+{"time":"2024-11-06T15:04:01.779493-03:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T15:04:01.779522-03:00","level":"INFO","msg":"created symlink","path":"/Users/estanislaorioszgaib/Desktop/TP3-TD6/TP3_TD6_repo/wandb/run-20241106_150358-ncyjlh3d/logs/debug-core.log"}
+{"time":"2024-11-06T15:04:02.243982-03:00","level":"INFO","msg":"created new stream","id":"ncyjlh3d"}
+{"time":"2024-11-06T15:04:02.244021-03:00","level":"INFO","msg":"stream: started","id":"ncyjlh3d"}
+{"time":"2024-11-06T15:04:02.244054-03:00","level":"INFO","msg":"sender: started","stream_id":"ncyjlh3d"}
+{"time":"2024-11-06T15:04:02.244079-03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ncyjlh3d"}}
+{"time":"2024-11-06T15:04:02.244048-03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ncyjlh3d"}}
+{"time":"2024-11-06T15:04:02.59077-03:00","level":"INFO","msg":"Starting system monitor"}

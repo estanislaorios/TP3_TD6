@@ -1,0 +1,10 @@
+{"time":"2024-11-06T11:08:02.114478-03:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T11:08:02.114539-03:00","level":"INFO","msg":"created symlink","path":"/Users/estanislaorioszgaib/Desktop/TP3-TD6/TP3_TD6_repo/wandb/run-20241106_110802-gh4yr2rl/logs/debug-core.log"}
+{"time":"2024-11-06T11:08:02.228697-03:00","level":"INFO","msg":"created new stream","id":"gh4yr2rl"}
+{"time":"2024-11-06T11:08:02.228801-03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"gh4yr2rl"}}
+{"time":"2024-11-06T11:08:02.228841-03:00","level":"INFO","msg":"sender: started","stream_id":"gh4yr2rl"}
+{"time":"2024-11-06T11:08:02.228861-03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"gh4yr2rl"}}
+{"time":"2024-11-06T11:08:02.22891-03:00","level":"INFO","msg":"stream: started","id":"gh4yr2rl"}
+{"time":"2024-11-06T11:08:02.673147-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T11:08:02.734411-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-06T11:08:02.741054-03:00","level":"INFO","msg":"Resuming system monitor"}

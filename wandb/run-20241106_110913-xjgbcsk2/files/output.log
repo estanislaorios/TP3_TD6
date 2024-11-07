@@ -1,0 +1,136 @@
+Epoch: [1/500], Train loss: 2.3795
+Epoch: [1/500], Valid loss: 2.3240, Valid accuracy: 0.0909
+Saving the best model at 0 epochs!
+Epoch: [2/500], Train loss: 2.8981
+Epoch: [2/500], Valid loss: 2.3015, Valid accuracy: 0.1111
+Saving the best model at 1 epochs!
+Epoch: [3/500], Train loss: 3.2440
+Epoch: [3/500], Valid loss: 2.2970, Valid accuracy: 0.0909
+Saving the best model at 2 epochs!
+Epoch: [4/500], Train loss: 3.1657
+Epoch: [4/500], Valid loss: 2.2876, Valid accuracy: 0.0909
+Saving the best model at 3 epochs!
+Epoch: [5/500], Train loss: 3.2605
+Epoch: [5/500], Valid loss: 2.2741, Valid accuracy: 0.0909
+Saving the best model at 4 epochs!
+Epoch: [6/500], Train loss: 3.0427
+Epoch: [6/500], Valid loss: 2.2692, Valid accuracy: 0.0909
+Saving the best model at 5 epochs!
+Epoch: [7/500], Train loss: 3.1062
+Epoch: [7/500], Valid loss: 2.2697, Valid accuracy: 0.0909
+Epoch: [8/500], Train loss: 2.9243
+Epoch: [8/500], Valid loss: 2.2694, Valid accuracy: 0.0707
+Epoch: [9/500], Train loss: 3.0321
+Epoch: [9/500], Valid loss: 2.2652, Valid accuracy: 0.1212
+Saving the best model at 8 epochs!
+Epoch: [10/500], Train loss: 3.0057
+Epoch: [10/500], Valid loss: 2.2642, Valid accuracy: 0.1111
+Saving the best model at 9 epochs!
+Epoch: [11/500], Train loss: 3.0383
+Epoch: [11/500], Valid loss: 2.2575, Valid accuracy: 0.0808
+Saving the best model at 10 epochs!
+Epoch: [12/500], Train loss: 2.7406
+Epoch: [12/500], Valid loss: 2.2608, Valid accuracy: 0.1010
+Epoch: [13/500], Train loss: 2.7445
+Epoch: [13/500], Valid loss: 2.2636, Valid accuracy: 0.0909
+Epoch: [14/500], Train loss: 2.8287
+Epoch: [14/500], Valid loss: 2.2700, Valid accuracy: 0.0909
+Epoch: [15/500], Train loss: 2.8487
+Epoch: [15/500], Valid loss: 2.2726, Valid accuracy: 0.0808
+Epoch: [16/500], Train loss: 2.6306
+Epoch: [16/500], Valid loss: 2.2785, Valid accuracy: 0.0505
+Epoch: [17/500], Train loss: 2.6243
+Epoch: [17/500], Valid loss: 2.2830, Valid accuracy: 0.0909
+Epoch: [18/500], Train loss: 2.5268
+Epoch: [18/500], Valid loss: 2.2814, Valid accuracy: 0.0909
+Epoch: [19/500], Train loss: 2.5245
+Epoch: [19/500], Valid loss: 2.2821, Valid accuracy: 0.1010
+Epoch: [20/500], Train loss: 2.4487
+Epoch: [20/500], Valid loss: 2.2847, Valid accuracy: 0.1111
+Epoch: [21/500], Train loss: 2.4537
+Epoch: [21/500], Valid loss: 2.2864, Valid accuracy: 0.0808
+Epoch: [22/500], Train loss: 2.4171
+Epoch: [22/500], Valid loss: 2.2884, Valid accuracy: 0.0808
+Epoch: [23/500], Train loss: 2.4295
+Epoch: [23/500], Valid loss: 2.2888, Valid accuracy: 0.0808
+Epoch: [24/500], Train loss: 2.3865
+Epoch: [24/500], Valid loss: 2.2876, Valid accuracy: 0.0909
+Epoch: [25/500], Train loss: 2.3033
+Epoch: [25/500], Valid loss: 2.2850, Valid accuracy: 0.1111
+Epoch: [26/500], Train loss: 2.2915
+Epoch: [26/500], Valid loss: 2.2838, Valid accuracy: 0.0808
+Epoch: [27/500], Train loss: 2.3383
+Epoch: [27/500], Valid loss: 2.2837, Valid accuracy: 0.1313
+Epoch: [28/500], Train loss: 2.2248
+Epoch: [28/500], Valid loss: 2.2831, Valid accuracy: 0.1515
+Epoch: [29/500], Train loss: 2.1961
+Epoch: [29/500], Valid loss: 2.2838, Valid accuracy: 0.1414
+Epoch: [30/500], Train loss: 2.1966
+Epoch: [30/500], Valid loss: 2.2828, Valid accuracy: 0.1818
+Epoch: [31/500], Train loss: 2.1882
+Epoch: [31/500], Valid loss: 2.2848, Valid accuracy: 0.1919
+Epoch: [32/500], Train loss: 2.1530
+Epoch: [32/500], Valid loss: 2.2864, Valid accuracy: 0.1919
+Epoch: [33/500], Train loss: 2.2036
+Epoch: [33/500], Valid loss: 2.2872, Valid accuracy: 0.1818
+Epoch: [34/500], Train loss: 2.1977
+Epoch: [34/500], Valid loss: 2.2884, Valid accuracy: 0.1717
+Epoch: [35/500], Train loss: 2.2150
+Epoch: [35/500], Valid loss: 2.2862, Valid accuracy: 0.1919
+Epoch: [36/500], Train loss: 2.1416
+Epoch: [36/500], Valid loss: 2.2863, Valid accuracy: 0.2020
+Epoch: [37/500], Train loss: 2.1399
+Epoch: [37/500], Valid loss: 2.2853, Valid accuracy: 0.1818
+Epoch: [38/500], Train loss: 2.1399
+Epoch: [38/500], Valid loss: 2.2854, Valid accuracy: 0.1616
+Epoch: [39/500], Train loss: 2.0793
+Epoch: [39/500], Valid loss: 2.2858, Valid accuracy: 0.1717
+Epoch: [40/500], Train loss: 2.0950
+Epoch: [40/500], Valid loss: 2.2847, Valid accuracy: 0.2020
+Epoch: [41/500], Train loss: 2.0753
+Epoch: [41/500], Valid loss: 2.2839, Valid accuracy: 0.1818
+Epoch: [42/500], Train loss: 2.0499
+Epoch: [42/500], Valid loss: 2.2821, Valid accuracy: 0.1919
+Epoch: [43/500], Train loss: 2.0355
+Epoch: [43/500], Valid loss: 2.2828, Valid accuracy: 0.1717
+Epoch: [44/500], Train loss: 2.0335
+Epoch: [44/500], Valid loss: 2.2835, Valid accuracy: 0.1616
+Epoch: [45/500], Train loss: 2.0176
+Epoch: [45/500], Valid loss: 2.2823, Valid accuracy: 0.1616
+Epoch: [46/500], Train loss: 1.9781
+Epoch: [46/500], Valid loss: 2.2830, Valid accuracy: 0.1616
+Epoch: [47/500], Train loss: 2.0363
+Epoch: [47/500], Valid loss: 2.2834, Valid accuracy: 0.1616
+Epoch: [48/500], Train loss: 1.9765
+Epoch: [48/500], Valid loss: 2.2849, Valid accuracy: 0.1616
+Epoch: [49/500], Train loss: 1.9662
+Epoch: [49/500], Valid loss: 2.2824, Valid accuracy: 0.1717
+Epoch: [50/500], Train loss: 1.9211
+Epoch: [50/500], Valid loss: 2.2796, Valid accuracy: 0.1515
+Epoch: [51/500], Train loss: 1.9579
+Epoch: [51/500], Valid loss: 2.2780, Valid accuracy: 0.1414
+Epoch: [52/500], Train loss: 1.9333
+Epoch: [52/500], Valid loss: 2.2759, Valid accuracy: 0.1515
+Epoch: [53/500], Train loss: 1.9433
+Epoch: [53/500], Valid loss: 2.2745, Valid accuracy: 0.1414
+Epoch: [54/500], Train loss: 1.9621
+Epoch: [54/500], Valid loss: 2.2717, Valid accuracy: 0.1313
+Epoch: [55/500], Train loss: 1.8619
+Epoch: [55/500], Valid loss: 2.2730, Valid accuracy: 0.1313
+Epoch: [56/500], Train loss: 1.8753
+Epoch: [56/500], Valid loss: 2.2721, Valid accuracy: 0.1313
+Epoch: [57/500], Train loss: 1.8961
+Epoch: [57/500], Valid loss: 2.2706, Valid accuracy: 0.1313
+Epoch: [58/500], Train loss: 1.8646
+Epoch: [58/500], Valid loss: 2.2697, Valid accuracy: 0.1313
+Epoch: [59/500], Train loss: 1.8977
+Epoch: [59/500], Valid loss: 2.2679, Valid accuracy: 0.1313
+Epoch: [60/500], Train loss: 1.8815
+Epoch: [60/500], Valid loss: 2.2647, Valid accuracy: 0.1313
+Epoch: [61/500], Train loss: 1.8374
+Epoch: [61/500], Valid loss: 2.2626, Valid accuracy: 0.1414
+Epoch: [62/500], Train loss: 1.8949
+Epoch: [62/500], Valid loss: 2.2613, Valid accuracy: 0.1414
+Epoch: [63/500], Train loss: 1.8662
+Epoch: [63/500], Valid loss: 2.2596, Valid accuracy: 0.1414
+[34m[1mwandb[0m: [33mWARNING[0m Fatal error while uploading data. Some run data will not be synced, but it will still be written to disk. Use `wandb sync` at the end of the run to try uploading.

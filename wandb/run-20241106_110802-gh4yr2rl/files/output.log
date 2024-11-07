@@ -1,0 +1,50 @@
+Epoch: [1/500], Train loss: 2.3813
+Epoch: [1/500], Valid loss: 2.3219, Valid accuracy: 0.0606
+Saving the best model at 0 epochs!
+Epoch: [2/500], Train loss: 2.8787
+Epoch: [2/500], Valid loss: 2.3226, Valid accuracy: 0.0808
+Epoch: [3/500], Train loss: 3.1121
+Epoch: [3/500], Valid loss: 2.3284, Valid accuracy: 0.0909
+Epoch: [4/500], Train loss: 3.2529
+Epoch: [4/500], Valid loss: 2.3301, Valid accuracy: 0.0808
+Epoch: [5/500], Train loss: 3.3006
+Epoch: [5/500], Valid loss: 2.3244, Valid accuracy: 0.0808
+Epoch: [6/500], Train loss: 3.0915
+Epoch: [6/500], Valid loss: 2.3183, Valid accuracy: 0.0707
+Saving the best model at 5 epochs!
+Epoch: [7/500], Train loss: 2.9865
+Epoch: [7/500], Valid loss: 2.3180, Valid accuracy: 0.0707
+Saving the best model at 6 epochs!
+Epoch: [8/500], Train loss: 3.0071
+Epoch: [8/500], Valid loss: 2.3227, Valid accuracy: 0.0808
+Epoch: [9/500], Train loss: 3.0183
+Epoch: [9/500], Valid loss: 2.3180, Valid accuracy: 0.0505
+Saving the best model at 8 epochs!
+Epoch: [10/500], Train loss: 2.9482
+Epoch: [10/500], Valid loss: 2.3103, Valid accuracy: 0.1111
+Saving the best model at 9 epochs!
+Epoch: [11/500], Train loss: 2.8046
+Epoch: [11/500], Valid loss: 2.2966, Valid accuracy: 0.1212
+Saving the best model at 10 epochs!
+Epoch: [12/500], Train loss: 2.7955
+Epoch: [12/500], Valid loss: 2.2969, Valid accuracy: 0.1313
+Epoch: [13/500], Train loss: 2.8985
+Epoch: [13/500], Valid loss: 2.3019, Valid accuracy: 0.1111
+Epoch: [14/500], Train loss: 2.6214
+Epoch: [14/500], Valid loss: 2.3098, Valid accuracy: 0.1010
+Epoch: [15/500], Train loss: 2.7804
+Epoch: [15/500], Valid loss: 2.3076, Valid accuracy: 0.1010
+Exception ignored in: <bound method IPythonKernel._clean_thread_parent_frames of <ipykernel.ipkernel.IPythonKernel object at 0x106bd5190>>
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/TD6/lib/python3.12/site-packages/ipykernel/ipkernel.py", line 775, in _clean_thread_parent_frames
+    def _clean_thread_parent_frames(
+
+KeyboardInterrupt:
+Epoch: [16/500], Train loss: 2.5105
+Epoch: [16/500], Valid loss: 2.3081, Valid accuracy: 0.1313
+Epoch: [17/500], Train loss: 2.5701
+Epoch: [17/500], Valid loss: 2.3045, Valid accuracy: 0.1515
+Epoch: [18/500], Train loss: 2.4779
+Epoch: [18/500], Valid loss: 2.3059, Valid accuracy: 0.1515
+Epoch: [19/500], Train loss: 2.5015
+Epoch: [19/500], Valid loss: 2.3040, Valid accuracy: 0.1616

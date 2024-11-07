@@ -1,0 +1,24 @@
+{"time":"2024-11-06T14:37:37.396952-03:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-06T14:37:37.396977-03:00","level":"INFO","msg":"created symlink","path":"/Users/estanislaorioszgaib/Desktop/TP3-TD6/TP3_TD6_repo/wandb/run-20241106_143737-etik53ia/logs/debug-core.log"}
+{"time":"2024-11-06T14:37:37.520246-03:00","level":"INFO","msg":"created new stream","id":"etik53ia"}
+{"time":"2024-11-06T14:37:37.520382-03:00","level":"INFO","msg":"stream: started","id":"etik53ia"}
+{"time":"2024-11-06T14:37:37.520722-03:00","level":"INFO","msg":"sender: started","stream_id":"etik53ia"}
+{"time":"2024-11-06T14:37:37.520499-03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"etik53ia"}}
+{"time":"2024-11-06T14:37:37.520658-03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"etik53ia"}}
+{"time":"2024-11-06T14:37:37.939165-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-06T14:37:37.980587-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-06T14:37:37.98676-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-06T14:45:30.049148-03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/estanislao-rios-/Music_genre_classification/etik53ia/file_stream\": EOF"}
+{"time":"2024-11-06T14:45:59.944063-03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/estanislao-rios-/Music_genre_classification/etik53ia/file_stream\": read tcp 10.9.7.221:52510->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2024-11-06T14:47:54.9949-03:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/estanislao-rios-/Music_genre_classification/etik53ia/file_stream\": unexpected EOF"}
+{"time":"2024-11-06T14:54:07.943889-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-06T14:54:07.957104-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-06T14:54:07.961747-03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-06T14:54:07.976946-03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-06T14:54:08.9683-03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run config","runtime_seconds":1.007767542}],"total_operations":1}}
+{"time":"2024-11-06T14:54:11.349187-03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-06T14:54:12.688132-03:00","level":"INFO","msg":"stream: closing","id":"etik53ia"}
+{"time":"2024-11-06T14:54:12.688163-03:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"etik53ia"}}
+{"time":"2024-11-06T14:54:12.688195-03:00","level":"INFO","msg":"sender: closed","stream_id":"etik53ia"}
+{"time":"2024-11-06T14:54:12.688184-03:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"etik53ia"}}
+{"time":"2024-11-06T14:54:12.688331-03:00","level":"INFO","msg":"stream: closed","id":"etik53ia"}

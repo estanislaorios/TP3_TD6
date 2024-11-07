@@ -1,0 +1,21 @@
+{"time":"2024-11-04T11:48:08.06733-03:00","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-04T11:48:08.067361-03:00","level":"INFO","msg":"created symlink","path":"/Users/estanislaorioszgaib/Desktop/TP3-TD6/TP3_TD6_repo/wandb/run-20241104_114808-sy2nb93d/logs/debug-core.log"}
+{"time":"2024-11-04T11:48:08.180992-03:00","level":"INFO","msg":"created new stream","id":"sy2nb93d"}
+{"time":"2024-11-04T11:48:08.181058-03:00","level":"INFO","msg":"stream: started","id":"sy2nb93d"}
+{"time":"2024-11-04T11:48:08.181195-03:00","level":"INFO","msg":"sender: started","stream_id":"sy2nb93d"}
+{"time":"2024-11-04T11:48:08.181119-03:00","level":"INFO","msg":"handler: started","stream_id":{"value":"sy2nb93d"}}
+{"time":"2024-11-04T11:48:08.181149-03:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"sy2nb93d"}}
+{"time":"2024-11-04T11:48:08.487116-03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-04T11:48:08.527543-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-04T11:48:08.533679-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-04T11:48:30.346038-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-04T11:48:30.351424-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-04T11:48:30.352263-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-04T11:48:30.356912-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-04T11:48:30.642464-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-04T11:48:30.646638-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-04T11:48:30.648276-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-04T11:48:30.651417-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-04T11:48:30.655453-03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-04T11:48:30.660664-03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-04T11:48:30.664942-03:00","level":"INFO","msg":"Pausing system monitor"}

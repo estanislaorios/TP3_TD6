@@ -1,0 +1,34 @@
+Epoch: [1/100], Train loss: 4.1412
+Epoch: [1/100], Valid loss: 4.1076, Valid accuracy: 0.1111
+Saving the best model at 0 epochs!
+Epoch: [2/100], Train loss: 2.5244
+Epoch: [2/100], Valid loss: 3.9742, Valid accuracy: 0.1414
+Saving the best model at 1 epochs!
+Epoch: [3/100], Train loss: 1.9275
+Epoch: [3/100], Valid loss: 3.9981, Valid accuracy: 0.1414
+Epoch: [4/100], Train loss: 1.6948
+Epoch: [4/100], Valid loss: 4.0069, Valid accuracy: 0.1313
+Epoch: [5/100], Train loss: 1.5885
+Epoch: [5/100], Valid loss: 4.0032, Valid accuracy: 0.1313
+Epoch: [6/100], Train loss: 1.5320
+Epoch: [6/100], Valid loss: 3.9995, Valid accuracy: 0.1414
+Epoch: [7/100], Train loss: 1.4470
+Epoch: [7/100], Valid loss: 4.0010, Valid accuracy: 0.1515
+Epoch: [8/100], Train loss: 1.4080
+Epoch: [8/100], Valid loss: 4.0086, Valid accuracy: 0.1515
+Exception ignored in: <bound method IPythonKernel._clean_thread_parent_frames of <ipykernel.ipkernel.IPythonKernel object at 0x106fd50a0>>
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/TD6/lib/python3.12/site-packages/ipykernel/ipkernel.py", line 775, in _clean_thread_parent_frames
+    def _clean_thread_parent_frames(
+
+KeyboardInterrupt:
+Epoch: [9/100], Train loss: 1.3711
+Epoch: [9/100], Valid loss: 4.0082, Valid accuracy: 0.1414
+Epoch: [10/100], Train loss: 1.3536
+Epoch: [10/100], Valid loss: 4.0121, Valid accuracy: 0.1414
+Epoch: [11/100], Train loss: 1.3194
+Epoch: [11/100], Valid loss: 4.0137, Valid accuracy: 0.1616
+Epoch: [12/100], Train loss: 1.3022
+Epoch: [12/100], Valid loss: 4.0166, Valid accuracy: 0.1616
+Epoch: [13/100], Train loss: 1.2861
+Epoch: [13/100], Valid loss: 4.0102, Valid accuracy: 0.1818
